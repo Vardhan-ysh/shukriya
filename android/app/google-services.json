@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763333705449",
+    "project_id": "shukriya-2dc78",
+    "storage_bucket": "shukriya-2dc78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763333705449:android:cc6e4e26989cb5aefd3a78",
+        "android_client_info": {
+          "package_name": "com.example.shukriya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJqUiNK4dDklQhIWhSnRmc-3TEGeoRxnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
